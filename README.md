@@ -10,7 +10,7 @@ After to modify the dataframes, changing the scores of 9th graders in Thomas Hig
 
 - District Results
 There was a reduction in tenths with respect to the original results, however the reduction was so slightly that we could say the results weren't affected at all.
-![image](https://user-images.githubusercontent.com/96214489/151726882-70b94a3e-0cf8-4691-b9be-54710e7132ee.png)
+![image](https://user-images.githubusercontent.com/96214489/151728638-a35fe898-f143-4edb-a4ce-cf82be297ec7.png)
 
 - School Summary Results
 As well that in the district results, the school summary wasn't affected at all after taking out the 9th graders results of THS:
